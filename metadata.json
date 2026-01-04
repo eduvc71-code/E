@@ -1,0 +1,9 @@
+
+{
+  "name": "RAPIDINGO - Delivery Trinidad",
+  "description": "Sistema de delivery premium para la ciudad de Trinidad, Beni. Conexión en tiempo real entre clientes y repartidores con rastreo GPS y chat integrado.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
